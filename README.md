@@ -7,7 +7,7 @@
 # AIM:
 To develop the Hospital Management System using Star UML.
 
-# Problem Statement:
+# SRS (Procedure):
 1.Hospital Management System is needed to streamline and automate various hospital operations that are currently handled manually or with fragmented software, leading to inefficiencies and errors.
 
 2.Managing patient records, appointments, billing, and medical histories manually causes delays, data loss, and poor coordination among departments.
